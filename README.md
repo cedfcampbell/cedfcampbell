@@ -7,7 +7,7 @@
 
 ## 🧃 Education
 
-### Things I have learned
+### Things I have learned (and continue to learn!)
 <p>
   <img width="45px" height="45px" alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img width="45px" height="45px" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -27,6 +27,7 @@
 <p>
   <img width="45px" height="45px" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img  width="45px" height="45px" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img width="45px" height="45px" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </p>
 
 ## 🧩 Hobbies and interests
